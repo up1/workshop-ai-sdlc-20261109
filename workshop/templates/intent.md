@@ -25,4 +25,4 @@ Concrete, checkable conditions that mean this is done.
 Anything unresolved. These must be closed (or explicitly deferred) before Design.
 
 ---
-Gate: product owner accepts. The accepting commit is the record.
+Gate: product owner accepts
